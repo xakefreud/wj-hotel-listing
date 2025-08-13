@@ -78,10 +78,8 @@ body {
 
 .filter-section {
   margin-bottom: 20px;
-}
-
-.search-form-box {
   display: flex;
+  flex-direction: column;
 }
 
 .filter-section input[type="text"] {
