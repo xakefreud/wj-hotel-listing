@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import "./App.css";
 import { hotels as allHotels, Hotel } from "./data/hotels";
 import HotelCard from "./components/HotelCard";
+import FilterSidebar from "./components/FilterSidebar";
 
 function App() {
 
