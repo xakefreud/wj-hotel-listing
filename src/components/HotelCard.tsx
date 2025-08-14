@@ -1,4 +1,3 @@
-// src/components/HotelCard.tsx
 import React from "react";
 import { Hotel } from "../data/hotels";
 

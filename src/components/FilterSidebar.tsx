@@ -1,5 +1,3 @@
-// src/components/FilterSidebar.tsx
-
 import React, { useState } from "react";
 
 interface FilterProps {
