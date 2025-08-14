@@ -1,10 +1,12 @@
 # WJ Simple Hotel Listing App 
 
-This project was bootstrapped React App (CRA)
+This project was bootstrapped with Create React App (CRA)
 
 ## Installation and Setup
 
 Clone this repository and install.
+
+To install dependencies, you can run:
 
 ```bash
 npm install
